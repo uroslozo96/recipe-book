@@ -1,4 +1,7 @@
-# Project
+# Recipes-book
+
+![Design preview](./recipe-book.png)
+![Design preview](./shopping-list.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
